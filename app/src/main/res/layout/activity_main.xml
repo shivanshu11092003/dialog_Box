@@ -40,7 +40,7 @@
         android:layout_width="match_parent"
         android:textColor="@color/white"
         android:layout_height="wrap_content"
-        android:text="Question no 1"
+        android:text="Question no 2"
         />
 
     <Button
@@ -51,7 +51,7 @@
         android:textColor="@color/white"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Question no 1"
+        android:text="Question no 3"
         />
 
     <Button
@@ -62,7 +62,7 @@
         android:layout_width="match_parent"
         android:textColor="@color/white"
         android:layout_height="wrap_content"
-        android:text="Question no 1"
+        android:text="Question no 4"
         />
 
     <Button
@@ -73,7 +73,7 @@
         android:layout_width="match_parent"
         android:textColor="@color/white"
         android:layout_height="wrap_content"
-        android:text="Question no 1"
+        android:text="Question no 5"
         />
     <Button
         android:id="@+id/button6"
